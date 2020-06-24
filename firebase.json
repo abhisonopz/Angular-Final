@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "(public) dist\\Angular-otp-verification",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
